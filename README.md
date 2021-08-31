@@ -16,7 +16,7 @@ Project was created using:
 * XAMPP (Apache Module)
 
 ## Setup
-To run this project, move main TempConvert folder into htdocs (if using XAMPP) or into your web servers file directory to run the main index.php file with a browser.
+To run this project, move main TempConvert folder into htdocs (if using XAMPP) or into your web servers file directory. Make sure Apache service is started, then use browser and nagivate to http://localhost/TempConvert/index.php
 
 ## Future Implementations (To-dos)
 * Run multiple conversions at once (m_process.php)
